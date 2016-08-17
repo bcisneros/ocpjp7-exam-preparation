@@ -16,9 +16,5 @@ public class ArrayEqualsTest {
         assertThat(array1 == array2, is(false));
         assertThat(array1.equals(array2), is(false));
         assertThat(Arrays.equals(array1, array2), is(true));
-
-
-
-
     }
 }
