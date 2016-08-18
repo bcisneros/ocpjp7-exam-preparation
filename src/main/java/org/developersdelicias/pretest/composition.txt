@@ -1,0 +1,10 @@
+Which one of the following relationships describes the OO design concept of "composition"?
+
+a) is-a
+b) is-a-kind-of
+c) has-a
+d) is-implemented-in-terms-of
+e) composed-as
+f) DAO
+
+I think is c) has-a
