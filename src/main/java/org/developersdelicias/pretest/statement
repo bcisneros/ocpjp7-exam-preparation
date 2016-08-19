@@ -1,0 +1,14 @@
+Which of the following two statements are true regarding Statement and its derived types?
+
+a) Objects of type Statement can handle IN, OUT, and INOUT parameters.
+
+b) PreparedStatement is used for executing stored procedures.
+
+c) You can get an instance of PreparedStatement by calling preparedStatement() method in the Connection interface.
+
+d) CallableStatement extends the PreparedStatement class; PreparedStatement in turn extends the Statement class.
+
+e) The interface Statement and its derived interfaces implement the AutoCloseable interface, hence it can be used with
+try-with-resources statement.
+
+My answers: c) and d)
