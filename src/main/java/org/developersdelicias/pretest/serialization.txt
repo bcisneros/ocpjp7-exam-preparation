@@ -1,0 +1,21 @@
+Which of the following two statements is true regarding object serialization in Java?
+
+a) A serializable interface declares two methods, readObject() and writeObject(). To support serialization in your class,
+you need to implement the Serializable interface and define these two methods.
+
+b) When serializing an object that has references to other objects, the serialization mechanism also includes the
+referenced objects as part of the serialized bytes.
+
+c) When an object is serialized, the class members that are declared as transient will not be serialized (and hence their
+values are lost after deserialization).
+
+d) The Externalizable interface is a marker interface; in other words, it's an empty interface that does not declare any
+methods.
+
+e) If you attempt to serialize or persist an object that does not implement the Externalizable interface, you'll get a
+NotExternalizableException.
+
+
+My answers:
+
+c) and d)
